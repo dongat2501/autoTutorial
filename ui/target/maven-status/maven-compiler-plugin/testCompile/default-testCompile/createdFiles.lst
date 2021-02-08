@@ -1,0 +1,3 @@
+ioFlow\features\search\WhenOpeningtheWeb.class
+ioFlow\pages\HomePage.class
+ioFlow\steps\serenity\HomeSteps.class
