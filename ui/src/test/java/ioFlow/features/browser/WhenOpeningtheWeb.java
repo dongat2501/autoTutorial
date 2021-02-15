@@ -1,4 +1,4 @@
-package ioFlow.features.search;
+package ioFlow.features.browser;
 
 import ioFlow.steps.serenity.HomeSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;

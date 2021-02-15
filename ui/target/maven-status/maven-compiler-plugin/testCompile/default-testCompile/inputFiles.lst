@@ -1,4 +1,3 @@
-D:\demoLearning\ui\src\test\java\ioFlow\pages\DictionaryPage.java
-D:\demoLearning\ui\src\test\java\ioFlow\features\search\package-info.java
-D:\demoLearning\ui\src\test\java\ioFlow\steps\serenity\EndUserSteps.java
-D:\demoLearning\ui\src\test\java\ioFlow\features\search\SearchByKeywordStory.java
+C:\auto\autoTutorial\ui\src\test\java\ioFlow\pages\HomePage.java
+C:\auto\autoTutorial\ui\src\test\java\ioFlow\steps\serenity\HomeSteps.java
+C:\auto\autoTutorial\ui\src\test\java\ioFlow\features\browser\WhenOpeningtheWeb.java

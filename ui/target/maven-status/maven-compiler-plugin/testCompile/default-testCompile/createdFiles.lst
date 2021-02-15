@@ -1,3 +1,5 @@
-ioFlow\features\search\WhenOpeningtheWeb.class
+ioFlow\pages\SignUpPage.class
 ioFlow\pages\HomePage.class
+ioFlow\pages\LoginPage.class
 ioFlow\steps\serenity\HomeSteps.class
+ioFlow\features\browser\WhenOpeningtheWeb.class
